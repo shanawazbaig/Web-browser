@@ -1,6 +1,5 @@
 Certainly! Here's the complete conversation in a single file format:
 
-```
 # Web Browser
 
 Web Browser is a simple web browser application built using PyQt5 and QtWebEngine. It allows you to browse the web, navigate between web pages, and maintain a history of visited URLs.
@@ -25,7 +24,6 @@ Web Browser is a simple web browser application built using PyQt5 and QtWebEngin
 
    ```shell
    pip install PyQt5 PyQtWebEngine
-   ```
 
 2. Clone the repository:
 
